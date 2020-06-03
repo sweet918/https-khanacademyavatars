@@ -1,4 +1,4 @@
-# https-khanacademyavatars
+# https-KASE
 This is an amazing website to hep you look at the amazing characters of Khan Academy.
 
 
